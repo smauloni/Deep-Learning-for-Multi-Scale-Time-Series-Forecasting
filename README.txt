@@ -1,0 +1,1 @@
+Please, be aware that 'requirements.txt' is bloated with dependencies of the VM we used to run this project.
